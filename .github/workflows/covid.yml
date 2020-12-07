@@ -1,5 +1,5 @@
 
-name: COVID Box
+name: COVID19-BOX
 
 on:
   schedule:
